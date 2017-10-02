@@ -14,5 +14,4 @@ $('.square').hover(function (){
 
 ## Screenshots
 
-<img scr = "./Screenshots/Preview.png" width = 500px>
-
+<img src="/Screenshots/Preview.png">
