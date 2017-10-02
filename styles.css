@@ -1,0 +1,13 @@
+.box {
+	display:inline-block;
+	width:15px;
+	height:15px;
+	border-style:solid;
+	border-color:black;
+	border-width: 5px;
+	margin-right:5px;
+}
+
+.red {
+	background-color:red;
+}
